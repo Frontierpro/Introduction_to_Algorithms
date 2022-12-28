@@ -1,2 +1,1 @@
-# Data_Structure
-Advanced data structure library
+# Introduction to Algorithms
